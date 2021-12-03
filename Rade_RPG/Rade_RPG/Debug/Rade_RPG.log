@@ -1,0 +1,4 @@
+﻿  HallOf.cpp
+c:\users\admin\source\repos\rade_rpg\rade_rpg\hallof.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\admin\source\repos\rade_rpg\rade_rpg\hallof.cpp(206): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  Rade_RPG.vcxproj -> C:\Users\admin\source\repos\Rade_RPG\Debug\Rade_RPG.exe
